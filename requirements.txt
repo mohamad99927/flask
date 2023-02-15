@@ -9,3 +9,4 @@ Flask
 opencv-python
 face-recognition
 numpy
+cmake
